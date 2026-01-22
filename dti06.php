@@ -36,7 +36,7 @@
 <body>
   <h1 style="text-align:center">All Form with PHP</h1>
   <hr>
-  <Form action="./dti06_result.php" methon="GET" enctype="">
+  <Form action="./dti06_result.php" method="GET" enctype="">
     <div class="form-group">
       <label for="fname">ชื่อ-สกุล</label>
       <input type="text" id="fname" name="fname">
